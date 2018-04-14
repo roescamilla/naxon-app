@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">naxon</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="signin">Regístrate</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+
+
+    <string name="username">Nombre de usuario</string>
+    <string name="name">Nombre completo</string>
+    <string name="city">Ciudad, Estado</string>
+    <string name="email">Correo electrónico</string>
+
+
+    <string name="league">LIGA NAXON</string>
+    <string name="match">PARTIDOS</string>
+    <string name="matchBody">Informate sobre el calendario de partidos de tu liga</string>
+    <string name="news">NOTICIAS</string>
+    <string name="newsBody">Enterate de todas las novedades al momento</string>
+    <string name="streaming">EN VIVO</string>
+    <string name="streamingBody">Sigue las transmisiones a traves de nuestras cuentas ligadas</string>
+    <string name="results">RESULTADOS</string>
+    <string name="resultsBody">Obten todos los resultados de tus partidos favoritos</string>
+    <string name="statistics">PORCENTAJE INDIVIDUAL</string>
+    <string name="statisticsBody">Sigue a tus jugadores favoritos de la liga</string>
+    <string name="positions">TABLA DE POSICIONES</string>
+    <string name="positionsBody">Todas las estadísticas de las temporadas jugadas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
